@@ -56,7 +56,7 @@ Reality:         Z ──→ X
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/your-username/confounder.git
+git clone https://github.com/opencausality/confounder.git
 cd confounder
 pip install -e ".[dev]"
 cp .env.example .env    # Configure LLM provider (default: Ollama)
